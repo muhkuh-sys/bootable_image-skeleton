@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<HBootImage type="REGULAR">
+	<Chunks>
+		<!-- Start the APP CPU. -->
+		<StartAPP />
+
+	</Chunks>
+</HBootImage>
